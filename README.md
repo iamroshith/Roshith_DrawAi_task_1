@@ -35,6 +35,10 @@ How gradient descent updates weights
 
 Basic CNN structure: conv → relu → pooling → flatten → fully connected
 
+Baseline Accuracy:
+Train: 60%
+Test: 55%
+
 For Part 2, I made small improvements to the baseline model.
 I kept things simple because I am still learning everything from scratch, but I wanted to show clear improvement and understanding.
  What I improved:
@@ -58,6 +62,11 @@ Augmentation prevents memorization
 Deeper CNN learns richer features
 
 Both help increase test accuracy
+
+Improved Model Accuracy:
+Train: 78%
+Test: 70%
+
 
 I am from Mechanical Engineering, and I am learning ML/DL from zero while managing my core subjects. It has been challenging but I genuinely enjoyed doing this assignment because I finally understood how a CNN works internally.
 
